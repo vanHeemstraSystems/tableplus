@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+tableplus
+# TablePlus
 
-Based on "ABC" at https://www.abc.com/
+Based on "TablePlus - Getting Started" at https://tableplus.com/blog/2018/04/getting-started-with-tableplus.html
 
 ## 100 - Introduction
 
