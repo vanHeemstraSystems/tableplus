@@ -3,6 +3,8 @@ tableplus
 
 Based on "TablePlus - Getting Started" at https://tableplus.com/blog/2018/04/getting-started-with-tableplus.html
 
+Based on "getting Started with Directus" at https://youtu.be/viURaw3oiBA
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
